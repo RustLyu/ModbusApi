@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+/.vs
+/Debug
+/Release
+/x64
+*.tlog
+*.log
+*.pdb
+*.idb
