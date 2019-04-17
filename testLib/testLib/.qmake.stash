@@ -1,0 +1,22 @@
+QMAKE_CXX.INCDIRS = \
+    "G:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Professional\\VC\\Tools\\MSVC\\14.16.27023\\ATLMFC\\include" \
+    "G:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Professional\\VC\\Tools\\MSVC\\14.16.27023\\include" \
+    "G:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\include\\um" \
+    "G:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.17763.0\\ucrt" \
+    "G:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.17763.0\\shared" \
+    "G:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.17763.0\\um" \
+    "G:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.17763.0\\winrt" \
+    "G:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.17763.0\\cppwinrt"
+QMAKE_CXX.LIBDIRS = \
+    "G:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Professional\\VC\\Tools\\MSVC\\14.16.27023\\ATLMFC\\lib\\x86" \
+    "G:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Professional\\VC\\Tools\\MSVC\\14.16.27023\\lib\\x86" \
+    "G:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.6.1\\lib\\um\\x86" \
+    "G:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.17763.0\\ucrt\\x86" \
+    "G:\\Program Files (x86)\\Windows Kits\\10\\lib\\10.0.17763.0\\um\\x86"
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_MSC_VER = 1700
+QMAKE_CXX.QMAKE_MSC_FULL_VER = 170060610
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_MSC_VER \
+    QMAKE_MSC_FULL_VER
